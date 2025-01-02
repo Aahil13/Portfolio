@@ -6,6 +6,14 @@ const ProfileShowcase = () => {
 
   const profiles = [
     {
+      platform: "Substack",
+      username: "@cr3ator",
+      link: "https://substack.com/@cr3ator",
+      description: "Experience life with me in my newsletter!",
+      color: "from-purple-500 to-blue-500",
+      icon: "🗞️"
+    },
+    {
       platform: "Hashnode",
       username: "@Aahil",
       link: "https://aahil13.hashnode.dev/",
