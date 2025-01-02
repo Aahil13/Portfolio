@@ -5,37 +5,37 @@ export default function Companies() {
     {
       name: "OpenMRS",
       link: "https://talk.openmrs.org/u/aahil/summary",
-      image: "../public/openmrs.png"
+      image: "/public/openmrs.png"
     },
     {
       name: "Ambassador Labs",
       link: "https://www.getambassador.io/blog/api-documentation-done-right-technical-guide",
-      image: "../public/ambassador.png"
+      image: "/public/ambassador.png"
     },
     {
       name: "freeCodeCamp",
       link: "https://www.freecodecamp.org/news/author/Aahil/",
-      image: "../public/freeCodeCamp.png"
+      image: "/public/freeCodeCamp.png"
     },
     {
       name: "Semaphore",
       link: "https://semaphoreci.com/author/prince-onyeanuna",
-      image: "../public/semaphore.png"
+      image: "/public/semaphore.png"
     },
     {
       name: "Earthly",
       link: "https://earthly.dev/blog/debugging-docker-containers/",
-      image: "../public/earthly.png"
+      image: "/public/earthly.png"
     },
     {
       name: "Medusa",
       link: "https://medusajs.com/blog/nodejs-ecommerce/",
-      image: "../public/medusa.png"
+      image: "/public/medusa.png"
     },
     {
       name: "OpenReplay",
       link: "https://blog.openreplay.com/authors/onyeanuna-prince/",
-      image: "../public/openreplay.png"
+      image: "/public/openreplay.png"
     },
   ];
 
