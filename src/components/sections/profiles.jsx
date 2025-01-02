@@ -9,7 +9,7 @@ const ProfileShowcase = () => {
       platform: "Substack",
       username: "@cr3ator",
       link: "https://substack.com/@cr3ator",
-      description: "Experience life with me in my newsletter!",
+      description: "Join and be part of my journey of life through my newsletter!",
       color: "from-purple-500 to-blue-500",
       icon: "🗞️"
     },
