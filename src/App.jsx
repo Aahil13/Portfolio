@@ -5,6 +5,7 @@ import Projects from './components/sections/Projects'
 import Companies from './components/sections/Companies'
 import Contact from './components/sections/Contact'
 import ProfileShowcase from './components/sections/profiles'
+import SkillsMarquee from './components/sections/Skills'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Projects />
       <ProfileShowcase />
       <Companies />
+      <SkillsMarquee />
       <Contact />
     </div>
   )
