@@ -48,7 +48,7 @@ const ProfileShowcase = () => {
     {
       platform: "Resume",
       username: "Download PDF",
-      link: "../public/resume.pdf",
+      link: "/resume.pdf",
       description: "View my full professional experience and skills",
       color: "from-red-500 to-orange-500",
       icon: "📄"
